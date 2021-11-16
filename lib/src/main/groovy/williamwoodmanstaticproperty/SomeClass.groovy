@@ -1,0 +1,4 @@
+package williamwoodmanstaticproperty
+
+class SomeClass {
+}
